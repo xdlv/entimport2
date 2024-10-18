@@ -1,6 +1,6 @@
 module github.com/xdlv/entimport2
 
-go 1.23.2
+go 1.22.2
 
 require (
 	ariga.io/atlas v0.28.1
